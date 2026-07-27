@@ -1,0 +1,1 @@
+exec usp_serverConfigReport 

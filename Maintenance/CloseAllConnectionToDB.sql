@@ -1,0 +1,1 @@
+exec dbo.sp_KillAllConnectionsToDatabase 'TestDB_zumSpielen'

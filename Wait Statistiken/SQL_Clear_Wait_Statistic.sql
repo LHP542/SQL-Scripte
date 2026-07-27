@@ -1,0 +1,1 @@
+DBCC SQLPERF (N'sys.dm_os_wait_stats', CLEAR);
